@@ -1,7 +1,7 @@
 import Title from './Title';
 import Subtitle from './Subtitle';
 import StatusText from './StatusText';
-import styles from './App.module.css';
+import styles from './styles/App.module.css';
 
 export default function App() {
   return (
